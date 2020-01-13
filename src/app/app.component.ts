@@ -9,9 +9,9 @@ import * as Feather from 'feather-icons';
   encapsulation: ViewEncapsulation.None
 })
 export class AppComponent implements AfterViewInit{
-  title = 'sixthforce';
-
+  
   ngAfterViewInit() {
     Feather.replace();
   }
+  
 }
