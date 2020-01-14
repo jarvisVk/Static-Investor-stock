@@ -1,5 +1,5 @@
 import { Component, OnInit, AfterViewInit } from '@angular/core';
-import * as Feather from 'feather-icons';
+import * as Feather from 'feather-icons';  
 import { Chart } from 'chart.js';
 
 @Component({
