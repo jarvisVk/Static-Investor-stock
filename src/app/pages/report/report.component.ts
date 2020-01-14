@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Chart } from 'chart.js';
-import * as Feather from 'feather-icons';
+import * as Feather from 'feather-icons';   
 
 @Component({
   selector: 'app-report',
